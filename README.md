@@ -18,7 +18,7 @@ This is a fun and engaging Snake Game implemented in Python using the Pygame lib
   - ⬆️ **Up Arrow**: Move up
   - ⬇️ **Down Arrow**: Move down
  
-  - 
+    
 - The goal is to eat the 🔴 food block to grow your snake and increase your score.
 - Be careful! If the snake collides with the walls or itself, the game is over. ❌
 - Try to achieve the highest possible score before losing!
